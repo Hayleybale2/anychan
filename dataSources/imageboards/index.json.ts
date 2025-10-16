@@ -9,6 +9,7 @@ import SmugLoli from './smugloli/index.json' assert { type: 'json' }
 import LeftyPol from './leftypol/index.json' assert { type: 'json' }
 import TvChan from './tvchan/index.json' assert { type: 'json' }
 import VecchioChan from './vecchiochan/index.json' assert { type: 'json' }
+import CRBAchan from './vecchiochan/index.json' assert { type: 'json' }
 import Bandada from './bandada/index.json' assert { type: 'json' }
 import TahtaCh from './tahtach/index.json' assert { type: 'json' }
 import WizardChan from './wizardchan/index.json' assert { type: 'json' }
@@ -35,6 +36,7 @@ export default [
 	SmugLoli,
 	LeftyPol,
 	VecchioChan,
+	CRBAchan,
 	Bandada,
 	TahtaCh,
 	WizardChan,
