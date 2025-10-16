@@ -9,6 +9,7 @@ import SmugLoli from './smugloli/index.js'
 import LeftyPol from './leftypol/index.js'
 import TvChan from './tvchan/index.js'
 import VecchioChan from './vecchiochan/index.js'
+import CRBAchan from './crbachan.js'
 import Bandada from './bandada/index.js'
 import TahtaCh from './tahtach/index.js'
 import WizardChan from './wizardchan/index.js'
@@ -35,6 +36,7 @@ export default [
 	SmugLoli,
 	LeftyPol,
 	VecchioChan,
+	CRBAchan,
 	Bandada,
 	TahtaCh,
 	WizardChan,
